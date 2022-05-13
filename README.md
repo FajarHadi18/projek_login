@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 "# projek_pcr" 
 "# projek_pcr" 
 # projek_pcr
+
+-Review Aplikasi
+Projek ini berisi program yang memiliki dua halaman yaitu, login and home/main.
+Program/aplikasi ini berisi profil dari stark industry. User dapat mengetahui ringkasan profil perusahaan, bentuk perusahaan dari gambar-gambar yang disediakan. Terakhir, user dapat melihat waktu kerja, biaya tour perusahaan.
+Karena waktu yang terbatas, aplikasi ini belum menerapkan login berbasis firebase, akan tetapi aplikasi ini akan beroperasi layaknya login yang dapat berpindah halaman ketika tombol login ditekan.
+Terima kasih.
